@@ -1,7 +1,7 @@
 // TESTETESTEESTEADSADAS
 import {
   default as createStore
-} from 'store/createStore'
+} from 'store/'
 
 describe('(Store) createStore', () => {
   let store
